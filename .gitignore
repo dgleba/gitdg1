@@ -1,3 +1,23 @@
+templates_c/
+log2/
+documentsdg/bkups/
+documents/bkups/
+documents/vcsignore/
+nbproject/
+
+log/
+.svn/
+
+documents/*.bat
+
+#conf.ini
+config.dbc
+configphp.dbc
+*.dbc
+
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 #################
 ## Eclipse
 #################
